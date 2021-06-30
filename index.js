@@ -33,7 +33,7 @@ client.connect(err => {
 
 
 
-  console.log("Database Connection Successfully");
+  console.log("Database Connected");
 });
 
 
